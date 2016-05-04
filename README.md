@@ -15,7 +15,7 @@ Add the dependency to the `bower.json` of your application:
 ```
    "dependencies": {
      [...]
-     "polymer-bootstrap": "LostInBrittany/polymer-bootstrap#0.1.0"
+     "polymer-bootstrap": "polymer-bootstrap#0.1.1"
    }
 ``` 
 

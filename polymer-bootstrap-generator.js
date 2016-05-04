@@ -5,10 +5,10 @@ var targetFolder = "."
 
 
 var getHeader = function(filename) {
-  return `<dom-module is="${filename}"><style><template>\n`;
+  return `<dom-module is="${filename}"><template><style>\n`;
 }
 var getFooter = function() {
-  return `\n</template></style></dom-module>`;
+  return `\n</style></template></dom-module>`;
 }
 
 fs.walk(folder).on('data', function (item) {
