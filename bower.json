@@ -3,6 +3,7 @@
   "authors": [
     "Horacio Gonzalez <horacio.gonzalez@gmail.com>"
   ],
+  "version": "0.1.0",
   "description": "Polymer wrap for Bootstrap",
   "keywords": [
     "web-component",
