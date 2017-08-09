@@ -1,3 +1,8 @@
+## DEPRECATED
+
+This project est deprecated, please use [granite-bootstrap](https://github.com/LostInBrittany/granite-bootstrap) instead
+
+
 ## polymer-bootstrap
 
 *polymer-bootstrap* is a wrapping of [Bootstrap](http://getbootstrap.com/) CSS as [Polymer](https://www.polymer-project.org/) [shared styles](https://www.polymer-project.org/1.0/docs/devguide/styling.html#style-modules) modules (i.e. inside `<dom-module>` tags).
