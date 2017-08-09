@@ -5,7 +5,7 @@ var targetFolder = "."
 
 
 var getHeader = function(filename) {
-  return `<dom-module is="polymer-${filename.replace('.css', '').replace('.min','-min')}"><template><style>\n`;
+  return `<dom-module id="polymer-${filename.replace('.css', '').replace('.min','-min')}"><template><style>\n`;
 }
 var getFooter = function() {
   return `\n</style></template></dom-module>`;
